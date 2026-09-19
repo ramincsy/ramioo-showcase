@@ -10,7 +10,7 @@
 </div>
 | Product | Showcase | Site |
 |---------|----------|------|
-| **Atlas** — DCIM / IPAM / NMS | [atlas-showcase](https://github.com/ramincsy/atlas-showcase) | [network twin](https://www.ramioo.com/projects/network-twin) |
+| **Atlas** — DCIM / IPAM / NMS | [live catalog](https://ramincsy.github.io/atlas-showcase/) · [atlas-showcase](https://github.com/ramincsy/atlas-showcase) | [network twin](https://www.ramioo.com/projects/network-twin) |
 | **Digital exchange core** | [digital-exchange-showcase](https://github.com/ramincsy/digital-exchange-showcase) | [exchange](https://www.ramioo.com/projects/digital-exchange) |
 | **Solar plant monitoring** | [solar-monitoring-showcase](https://github.com/ramincsy/solar-monitoring-showcase) | [solar](https://www.ramioo.com/projects/solar-intelligence) |
 | **Vision access / ANPR** | [vision-access-showcase](https://github.com/ramincsy/vision-access-showcase) | [vision](https://www.ramioo.com/projects/vision-access) |
