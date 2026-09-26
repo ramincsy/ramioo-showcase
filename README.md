@@ -16,7 +16,7 @@ Public **showcase** repos (no private source code). Prefer the **live catalog** 
 | **Atlas** — DCIM / IPAM / NMS | [Open catalog](https://ramincsy.github.io/atlas-showcase/) | [atlas-showcase](https://github.com/ramincsy/atlas-showcase) | [network twin](https://www.ramioo.com/projects/network-twin) |
 | **Taradod Nexus** — access control / biometrics / Rahkaran | [Open catalog](https://ramincsy.github.io/taradod-nexus-showcase/) | [taradod-nexus-showcase](https://github.com/ramincsy/taradod-nexus-showcase) | [ramioo.com](https://www.ramioo.com) |
 | **Digital exchange core** | — | [digital-exchange-showcase](https://github.com/ramincsy/digital-exchange-showcase) | [exchange](https://www.ramioo.com/projects/digital-exchange) |
-| **Solar plant monitoring** | — | [solar-monitoring-showcase](https://github.com/ramincsy/solar-monitoring-showcase) | [solar](https://www.ramioo.com/projects/solar-intelligence) |
+| **AftabPulse** — solar fleet / SmartLogger | [Open catalog](https://ramincsy.github.io/aftabpulse-showcase/) | [aftabpulse-showcase](https://github.com/ramincsy/aftabpulse-showcase) | [solar](https://www.ramioo.com/projects/solar-intelligence) |
 | **Vision access / ANPR** | — | [vision-access-showcase](https://github.com/ramincsy/vision-access-showcase) | [vision](https://www.ramioo.com/projects/vision-access) |
 | **Enterprise directory** | — | [enterprise-directory-showcase](https://github.com/ramincsy/enterprise-directory-showcase) | [directory](https://www.ramioo.com/projects/enterprise-directory) |
 
